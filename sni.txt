@@ -1,4 +1,14 @@
 samsung.com
+ghbi.ir
+nixos.org
+tuya.com
+tuyaus.com
+tuyaeu.com
+tuyacn.com
+bahmanbroker.com
+film2movie.asia
+cmirq.ir
+elastic.co
 github.com
 github.io
 updates.cdn-apple.com
